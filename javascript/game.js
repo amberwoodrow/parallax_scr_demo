@@ -1,6 +1,6 @@
 function Game(){
     // Pixi renderer creation.
-    this.renderer = new PIXI.WebGLRenderer(512, 256);
+    this.renderer = new PIXI.WebGLRenderer(512, 384);
 
     // Appending the renderer's view to the body.
     document.body.appendChild(this.renderer.view);

@@ -1,6 +1,6 @@
 function Mid (){
 	var midTexture = PIXI.Texture.fromImage("images/bg-mid.png");
-	PIXI.TilingSprite.call(this, midTexture, 512, 256);
+	PIXI.TilingSprite.call(this, midTexture, 512, 384);
 
 	this.position.x = 0;
 	this.position.y = 128;
