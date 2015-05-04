@@ -1,0 +1,13 @@
+body {
+	background-color: #000000;
+}
+
+canvas {
+	background-color: #222222;
+	display: block;
+	margin: 0 auto;
+}
+
+.canvas-div {
+	text-align: center;
+}
